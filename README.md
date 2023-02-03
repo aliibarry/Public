@@ -1,3 +1,3 @@
 # Public
 
-Assorted files for sharing.
+Assorted files for sharing. Not project-specific.
